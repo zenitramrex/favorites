@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 sinigang
 adobo
 chicken
+=======
+vivamax
+alice in borderland
+barbie
+>>>>>>> movies
